@@ -2,5 +2,7 @@
   "name": "Faultline CLI - Resilient CLI & Error Diagnostics",
   "description": "An interactive command-line simulator and resilience testing suite demonstrating production-grade error handling, actionable diagnostics, atomic rollbacks, and graceful recovery.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
